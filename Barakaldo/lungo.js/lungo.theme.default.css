@@ -34,8 +34,8 @@ p{
   text-align: justify;
 }
 article {
-  background-color: #4c4c4d;
-  color: #fff;
+  background-color: #f3f3f3;
+  color: #2c2c2dxº;
 }
 article .title {
   color: #797979;
@@ -226,7 +226,8 @@ footer .button:active {
   background: none;
 }
 .button.default:active, .button.default.active {
-  background: #269926;
+  background: #FFFF00;
+  color: #000;
 }
 /* @end */
 /* @group <inputs> */
@@ -310,13 +311,15 @@ header .bubble.count {
   background: #05b8e2;
 }
 .highlight, a.highlight{
-  color: #8bf13c;
+  color: #6c6c6f;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
 }
 .copyright{
   width: 50%;
   background: rgba(0,0,0,0.5);
   bottom: 15px;
   position: absolute;
+  color:#fff;
 }
 
 .logo{
