@@ -11,7 +11,7 @@
 
 .app {
   background: #000000;
-font-family: 'Comfortaa', cursive;
+  font-family: 'Comfortaa', cursive;
 }
 /* @group <header> & <footer> & <article> */
 header {
@@ -137,13 +137,13 @@ section.aside.onright {
   text-shadow: none;
 }
 .list li .onright:not(.bubble) {
-  color: #9400D3;
+  color: #6c6c6f;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
 
 }
 .list li small{
   color: #6c6c6f;
-    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
 
 }
 .list.indented li {

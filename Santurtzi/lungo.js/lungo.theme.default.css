@@ -15,8 +15,8 @@ font-family: 'Comfortaa', cursive;
 }
 /* @group <header> & <footer> & <article> */
 header {
-  background-color: #2c2c2d;
-  border-top: 1px solid #2c2c2d;
+  background-color: #8E16A1;
+  border-top: 1px solid #8E16A1;
   border-bottom: 1px solid #2c2c2d;
   box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.7);
 }
@@ -26,7 +26,7 @@ footer {
 }
 .title {
 font-weight: 700;
-  color: #FFFF00;
+  color: #f3f3f3;
     text-shadow: -1px 0px -1px #000;
 
 }
@@ -84,11 +84,11 @@ aside a {
   border-top: 1px inset #868686;
 }
 aside a.current {
-  background: #FFFF00;
+  background: #8E16A1;
   box-shadow: inset 0px 0px 8px #101010;
   border-top: 1px inset #1c1c1c;
-  color: #000;
-    text-shadow: 0px 1px 1px #fff;
+  color: #fff;
+    text-shadow: 0px 1px 1px #000;
 
 }
 aside a .icon {
@@ -137,7 +137,7 @@ section.aside.onright {
   text-shadow: none;
 }
 .list li .onright:not(.bubble) {
-  color: #9400D3;
+  color: #8E16A1;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
 
 }
@@ -226,7 +226,7 @@ footer .button:active {
   background: none;
 }
 .button.default:active, .button.default.active {
-  background: #269926;
+  background: #8E16A1;
 }
 /* @end */
 /* @group <inputs> */
