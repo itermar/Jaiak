@@ -35,7 +35,7 @@ p{
 }
 article {
   background-color: #f3f3f3;
-  color: #2c2c2dxº;
+  color: #2c2c2d;
 }
 article .title {
   color: #797979;
@@ -226,7 +226,7 @@ footer .button:active {
   background: none;
 }
 .button.default:active, .button.default.active {
-  background: #FFFF00;
+  background: #000;
   color: #000;
 }
 /* @end */

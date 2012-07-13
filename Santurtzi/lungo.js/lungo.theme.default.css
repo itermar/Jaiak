@@ -34,8 +34,8 @@ p{
   text-align: justify;
 }
 article {
-  background-color: #4c4c4d;
-  color: #fff;
+  background-color: #f3f3f3;
+  color: #2c2c2d;
 }
 article .title {
   color: #797979;
@@ -93,7 +93,7 @@ aside a.current {
 }
 aside a .icon {
   text-shadow: none;
-  color: #7a7a7a;
+  color: #f3f3f3;
 }
 aside .anchor {
   background: #101010;
@@ -137,7 +137,7 @@ section.aside.onright {
   text-shadow: none;
 }
 .list li .onright:not(.bubble) {
-  color: #8E16A1;
+  color: #6c6c6f;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
 
 }
@@ -310,13 +310,14 @@ header .bubble.count {
   background: #05b8e2;
 }
 .highlight, a.highlight{
-  color: #8bf13c;
+  color: #8E16A1;
 }
 .copyright{
   width: 50%;
   background: rgba(0,0,0,0.5);
   bottom: 15px;
   position: absolute;
+  color: #fff;
 }
 
 .logo{

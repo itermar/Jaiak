@@ -133,7 +133,7 @@ footer.toolbar~article{bottom:48px;}
 .splash h1{margin:92px auto 16px;font-size:2.2em;font-weight:bold;}
 .splash .button.big{margin-top:16px;}
 .splash .copyright{position:fixed;width:100%;bottom:8px;left:0px;font-size:0.8em;font-style:normal;}
-a.button{display:inline-block;height:30px;padding:0 9px 0 8px;color:#f2f2f2 !important;outline:none;background:transparent;-webkit-user-select:none;-moz-user-select:none;-o-user-select:none;user-select:none;line-height:31px;text-align:center;text-decoration:none;}a.button:active,a.button.active{background:#FFFF00; color:#000;}
+a.button{display:inline-block;height:30px;padding:0 9px 0 8px;color:#f2f2f2 !important;outline:none;background:transparent;-webkit-user-select:none;-moz-user-select:none;-o-user-select:none;user-select:none;line-height:31px;text-align:center;text-decoration:none;}a.button:active,a.button.active{background:#000; color:#000;}
 a.button:disabled,a.button.disabled{background:rgba(255, 255, 255, 0.2);color:#999 !important;}
 a.button .icon{position:relative;top:3px;height:18px;width:18px;font-size:24px;line-height:17px;}
 a.button img{top:0px !important;}
